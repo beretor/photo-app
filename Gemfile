@@ -23,6 +23,11 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise'
 gem 'net-smtp'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'jquery-rails'
+gem 'rails-ujs'
+gem 'sprockets-rails'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
