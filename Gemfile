@@ -28,6 +28,7 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'rails-ujs'
 gem 'sprockets-rails'
+gem 'stripe'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

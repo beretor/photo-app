@@ -210,6 +210,7 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.4)
+    stripe (6.4.0)
     thor (1.2.1)
     tilt (2.0.10)
     timeout (0.3.0)
@@ -271,6 +272,7 @@ DEPENDENCIES
   spring
   sprockets-rails
   sqlite3 (~> 1.4)
+  stripe
   turbolinks (~> 5)
   twitter-bootstrap-rails
   tzinfo-data
