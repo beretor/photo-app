@@ -29,6 +29,9 @@ gem 'jquery-rails'
 gem 'rails-ujs'
 gem 'sprockets-rails'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
